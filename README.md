@@ -1,5 +1,5 @@
 # Mar-Elias Notepad
-A Simple .txt file editor with highlights
+A Simple .txt file editor with highlights for Android.
 
 # Rights:
 
