@@ -1,4 +1,4 @@
-# Mar-Elias Notepad
+# Mar-Elias Notepad (org.marelias.notepad)
 A Simple .txt file editor with highlights for Android.
 
 # Rights:
